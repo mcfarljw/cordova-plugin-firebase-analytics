@@ -32,7 +32,7 @@
       <uses-permission android:name="android.permission.WAKE_LOCK" />
     </config-file>
 
-    <framework src="com.google.firebase:firebase-core:11.0.0" />
+    <framework src="com.google.firebase:firebase-core:11.0.1" />
 
     <source-file src="src/android/FirebaseAnalyticsPlugin.java" target-dir="src/com/jernung/plugins/firebase/analytics" />
 
